@@ -1,6 +1,8 @@
 
   # SideBar
 
+*RESPECTIVE ICONS IN THE FORM OF PNG FILES HAVE BEEN ATTACHED TO THE REPO AS WELL*
+  
   Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
   To preview and run the project on your device:
